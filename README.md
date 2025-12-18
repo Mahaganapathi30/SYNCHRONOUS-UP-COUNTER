@@ -53,6 +53,10 @@ Developed by: RegisterNumber:
 
 **TRUTH TABLE**
 
+
+![exp11](https://github.com/user-attachments/assets/b832034d-6aac-426b-a0a0-792ee6b80f84)
+
+
 **RESULTS**
 
 Thus the program was implement 4 bit synchronous up counter and validate functionality.
